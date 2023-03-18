@@ -2,7 +2,7 @@
 
 <h2>Kullanılan Teknolojiler</h2>
 
-HTML5,CSS3,SCSS teknolojileri
+HTML5,CSS3,SCSS teknolojileri ile responsive yapı.
 
 <h2> Ekran Gifi</h2>
 
